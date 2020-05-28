@@ -1,0 +1,28 @@
+
+   img { 
+       max-width:95%; 
+       height:95%; 
+    }
+    body {
+        background-color: eee;
+
+    }
+
+    #img-div { 
+        max-width:100%; 
+        height:auto; 
+        background-color: white;
+     }
+
+     #title{
+        font-weight: bold;
+        font-size: 30px;
+     }
+
+     #tribute-info{
+        font-weight: bold;
+     }
+     #list{
+        font-weight: bold;
+        text-align: center;
+     }
