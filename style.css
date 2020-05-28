@@ -1,16 +1,17 @@
 
-   img { 
-       max-width:95%; 
-       height:95%; 
+   img {
+       max-width:95%;
+       height:95%;
     }
     body {
         background-color: eee;
+        text-align: center;
 
     }
 
-    #img-div { 
-        max-width:100%; 
-        height:auto; 
+    #img-div {
+        max-width:100%;
+        height:auto;
         background-color: white;
      }
 
@@ -22,8 +23,8 @@
      #tribute-info{
         font-weight: bold;
      }
-     #list{
-        font-weight: bold;
-        text-align: center
-        ;
+     #list-div{
+        text-align: left;
+        max-width: 550px;
+        margin: 0 auto 50px auto;
      }
