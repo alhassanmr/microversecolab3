@@ -10,7 +10,7 @@
     }
 
     #img-div {
-        max-width:100%;
+        max-width:auto;
         height:auto;
         background-color: white;
      }
@@ -24,7 +24,9 @@
         font-weight: bold;
      }
      #list-div{
-        text-align: left;
-        max-width: 550px;
-        margin: 0 auto 50px auto;
+        text-align: center;
      }
+     ul { 
+         text-align: center; 
+         list-style-position: inside; 
+        }
